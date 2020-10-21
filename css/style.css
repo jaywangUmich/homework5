@@ -196,13 +196,13 @@ header{
   /* Navbar */
   header{
     /*Your code here again.*/  
-    flex-flow: row;
+    flex-direction: row;
     justify-content: space-between;
   }
 
   .nav_links{
     /*Your code here again.*/  
-    flex-flow: row;
+    flex-direction: row;
   }
 
   .nav_item a{
