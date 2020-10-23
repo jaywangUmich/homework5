@@ -230,16 +230,8 @@ header{
     display: none;
   }
 
-  header {
-  /*
-    justify-content:center;
-    align-items:flex-start;*/
-  }
 
 }
-/*
-This criterion is linked to a Learning OutcomePrint view- Edit the pricing class so that the elements align on the top
-This criterion is linked to a Learning OutcomePrint - The gallery class and id should not be displayed*/
 
 /*Your code here again.*/ 
 /*Add media query to handle reduced-motion*/
